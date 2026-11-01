@@ -44,12 +44,11 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Home,
 		LinkPreset.Archive,
 		LinkPreset.About,
-		// 建好 GitHub 仓库后，把下面这段填上你的地址就能显示入口
-		// {
-		// 	name: "GitHub",
-		// 	url: "https://github.com/你的用户名",
-		// 	external: true,
-		// },
+		{
+			name: "GitHub",
+			url: "https://github.com/MMMQQQ-MAX",
+			external: true,
+		},
 	],
 };
 
