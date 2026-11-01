@@ -1,4 +1,4 @@
-# 我的日常
+# 时光沙漏
 
 一个用 [Astro](https://astro.build) + [Fuwari](https://github.com/saicaca/fuwari) 主题搭的静态博客，托管在 GitHub Pages 上，零成本。
 
